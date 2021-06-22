@@ -1,6 +1,5 @@
 package br.com.estrutura.dados.testes;
 
-import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
